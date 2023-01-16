@@ -25,5 +25,10 @@
 			<type>1</type>
 			<location>C:/Users/335187183/Downloads/barbarianCOC.png</location>
 		</link>
+		<link>
+			<name>src/goblinCOC.png</name>
+			<type>1</type>
+			<location>C:/Users/335187183/Downloads/goblinCOC.png</location>
+		</link>
 	</linkedResources>
 </projectDescription>
